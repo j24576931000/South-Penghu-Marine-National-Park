@@ -1,5 +1,5 @@
 <style>
-  body { background-image: url("https://tour.penghu.gov.tw/tw/Discover/images/img_northern-06.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-position: center; background-size: cover; }
+  body { background-image: url("https://icrvb3jy.xinmedia.com/solomo/article/12505/5DCD1BA6-945E-42BA-BD02-54BA768780B6.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-position: center; background-size: cover; }
   h2 {
         font-family: "微軟正黑體";
         font-weight: bold;
