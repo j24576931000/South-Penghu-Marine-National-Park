@@ -578,10 +578,10 @@
         <table border="1" cellpadding="5" cellspacing="0" width="90%">
             <thead>
                 <tr>
-                    <th width="25%">民宿/飯店 </th>
+                    <th width="45%">民宿/飯店 </th>
                     <th width="48%">地址 </th>
                     <th width="24%">聯絡電話 </th>
-                    <th width="20%">網站 </th>
+                    <th width="24%">網址 </th>
                 </tr>
             </thead>
             <tbody>
