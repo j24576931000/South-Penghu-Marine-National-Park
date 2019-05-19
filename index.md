@@ -319,15 +319,9 @@
 
 <h2 class="header-level-2" id="B">國家公園標示意涵:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-    <img align="left" style="width: 100px; height: 100px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRuYnTlRmWatGzSkAocAeExuYxtG57lndSONluSTT9-g_BX2mj" data-type="image">
+    <img align="left" style="width: 100px; height: 100px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNwq-y7iGcTcXOVUHhn1_NkYUxPkIhValjI7GsbaH-ND2VcQXeWg" data-type="image">
     <center>
-        <p>1. 處徽整體主軸為展現陽明山的火山地質地形。
-2. 三角形設計即代表陽明山國家公園以火山地形為主體。
-3. 圓形代表整個地球與物質循環、生生不息，永續利用之保育觀念。
-4. 三角凹凸形狀，代表區內之最高峰七星山。
-5. 樹型代表自然界之動植物。
-6. 圍繞三角形外之波紋代表陽明山國家公園特殊之硫磺噴氣及雨霧。
-7. 綠底藍紋即意喻綠地與藍天是人類生存的空間所在。。
+        <p>澎湖南方四島國家公園的標誌是使用海洋國家公園管理處的標誌
         </p>
     </center>
 </div>
@@ -457,14 +451,14 @@
     
     <div class="mySlides fade">
         <div class="numbertext">4 / 5</div>
-        <img style="width:100%;height:400px" src="https://www.ymsnp.gov.tw/filesys/images/ch/csv/rsc/resource04-01.jpg">
-        <div class="text"> 赤腹松鼠  </div>
+        <img style="width:100%;height:400px" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0403/0403_01-03_a_08.jpg">
+        <div class="text"> 海蝕平台  </div>
     </div>
     
     <div class="mySlides fade">
         <div class="numbertext">5 / 5</div>
-        <img style="width:100%;height:400px" src="https://www.ymsnp.gov.tw/filesys/images/ch/csv/rsc/resource03-01.jpg">
-        <div class="text"> 臺灣龍膽</div>
+        <img style="width:100%;height:400px" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0403/0403_01-03_a_06.jpg">
+        <div class="text"> 菜宅</div>
     </div>
     
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -587,7 +581,7 @@
                     <th width="25%">民宿/飯店 </th>
                     <th width="48%">地址 </th>
                     <th width="24%">聯絡電話 </th>
-                 <th width="24%">網站 </th>
+                    <th width="20%">網站 </th>
                 </tr>
             </thead>
             <tbody>
@@ -596,35 +590,35 @@
                     <td>藍海風晴</td>
                     <td>澎湖縣馬公市山水里17之21號</td>
                     <td>06 995 2115</td>
-                    <td>https://www.summer-blue.com/Home.aspx/About</td>
+                    <td><a href="https://www.summer-blue.com/Home.aspx/About">https://www.summer-blue.com/Home.aspx/About</a></td>
                 </tr>
 
                 <tr>
                     <td>藍海天晴</td>
                     <td>澎湖縣馬公市山水里48之6號</td>
                     <td>06 995 2115</td>
-                     <td>https://www.skysunnybnb.com/</td>
+                     <td><a href="https://www.skysunnybnb.com/">https://www.skysunnybnb.com/</a></td>
                 </tr>
 
                 <tr>
                     <td>澎湖衫之林民宿</td>
                     <td>澎湖縣馬公市鎖港里1246號</td>
                     <td>0975 808 010</td>
-                     <td>http://www.lovinghut.com/portal/tw/bbs/board.php?bo_table=restaurants_tw&wr_id=48</td>
+                     <td><a href="http://www.lovinghut.com/portal/tw/bbs/board.php?bo_table=restaurants_tw&wr_id=48">http://www.lovinghut.com/portal/tw/bbs/board.php?bo_table=restaurants_tw&wr_id=48</a></td>
                 </tr>
 
                 <tr>
                     <td>澎湖福朋喜來登酒店</td>
                     <td>澎湖縣馬公市新店路197號</td>
                     <td>06 926 6288</td>
-                     <td>https://www.marriott.com/hotels/travel/mzgfp-four-points-penghu/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2</td>
+                     <td><a href="https://www.marriott.com/hotels/travel/mzgfp-four-points-penghu/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2">https://www.marriott.com/hotels/travel/mzgfp-four-points-penghu/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2</a>h</td>
                 </tr>
 
                 <tr>
                     <td>澎舢100民宿</td>
                     <td>澎湖縣馬公市線道201號</td>
                     <td>06 995 1581</td>
-                     <td>https://website--782920607661804303971-hotel.business.site/</td>
+                     <td><a href="https://website--782920607661804303971-hotel.business.site/">https://website--782920607661804303971-hotel.business.site/</a></td>
                 </tr>
             </tbody>
         </table>
