@@ -319,9 +319,9 @@
 
 <h2 class="header-level-2" id="B">國家公園標示意涵:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-    <img align="left" style="width: 100px; height: 100px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNwq-y7iGcTcXOVUHhn1_NkYUxPkIhValjI7GsbaH-ND2VcQXeWg" data-type="image">
+    <img align="left" style="width: 100px; height: 100px;" src="https://i2.wp.com/fengtaiwanway.com/wp-content/uploads/2018/05/penghutravel4_3_006-1.jpg?resize=800%2C533&ssl=1">
     <center>
-        <p>澎湖南方四島國家公園的標誌是使用海洋國家公園管理處的標誌
+        <p>澎湖南方四島國家公園的標誌是使用海洋國家公園管理處的標誌,海洋國家公園管理處徵以海洋國家公園管理處英文名稱M為設計元素,運用流暢飄逸之書法筆觸表現海浪波動,象徵海洋元素生命力旺盛,及搭配深淺藍與白色視覺效果,融合於水墨自由暈開之圖形,呈現海洋資源豐沛之意象
         </p>
     </center>
 </div>
