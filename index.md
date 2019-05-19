@@ -587,38 +587,44 @@
                     <th width="25%">民宿/飯店 </th>
                     <th width="48%">地址 </th>
                     <th width="24%">聯絡電話 </th>
+                 <th width="24%">網站 </th>
                 </tr>
             </thead>
             <tbody>
 
                 <tr>
-                    <td>麗之湯溫泉會館</td>
-                    <td>台北市北投區溫泉路銀光巷4-2號</td>
-                    <td>07-9682715</td>
+                    <td>藍海風晴</td>
+                    <td>澎湖縣馬公市山水里17之21號</td>
+                    <td>06 995 2115</td>
+                    <td>https://www.summer-blue.com/Home.aspx/About</td>
                 </tr>
 
                 <tr>
-                    <td>陽明山天籟渡假酒店</td>
-                    <td>新北市金山區名流路1之7號</td>
-                    <td>02-2408-0000</td>
+                    <td>藍海天晴</td>
+                    <td>澎湖縣馬公市山水里48之6號</td>
+                    <td>06 995 2115</td>
+                     <td>https://www.skysunnybnb.com/</td>
                 </tr>
 
                 <tr>
-                    <td>陽明山出霧溫泉飯店</td>
-                    <td>新北市金山區山城路82之3號</td>
-                    <td>02-24080666#1</td>
+                    <td>澎湖衫之林民宿</td>
+                    <td>澎湖縣馬公市鎖港里1246號</td>
+                    <td>0975 808 010</td>
+                     <td>http://www.lovinghut.com/portal/tw/bbs/board.php?bo_table=restaurants_tw&wr_id=48</td>
                 </tr>
 
                 <tr>
-                    <td>陽明山中國麗緻大飯店</td>
-                    <td>台北市士林區格致路237號</td>
-                    <td>02 2861 6661</td>
+                    <td>澎湖福朋喜來登酒店</td>
+                    <td>澎湖縣馬公市新店路197號</td>
+                    <td>06 926 6288</td>
+                     <td>https://www.marriott.com/hotels/travel/mzgfp-four-points-penghu/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2</td>
                 </tr>
 
                 <tr>
-                    <td>金山劉住春天 原宿溫泉民宿</td>
-                    <td>208新北市金山區名流路10巷11號</td>
-                    <td>0955 937 226</td>
+                    <td>澎舢100民宿</td>
+                    <td>澎湖縣馬公市線道201號</td>
+                    <td>06 995 1581</td>
+                     <td>https://website--782920607661804303971-hotel.business.site/</td>
                 </tr>
             </tbody>
         </table>
