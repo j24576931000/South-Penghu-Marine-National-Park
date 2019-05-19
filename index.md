@@ -439,20 +439,20 @@
 
     <div class="mySlides fade">
         <div class="numbertext">1 / 5</div>
-        <img style="width:100%;height:400px" src="https://www.funtime.com.tw/blog/wp-content/uploads/2017/08/28.png">
-        <div class="text"> 夢幻湖</div>
+        <img style="width:100%;height:400px" src="https://images.chinatimes.com/newsphoto/2014-10-18/900/20141018002972.jpg">
+        <div class="text"> 藍洞</div>
     </div>
 
     <div class="mySlides fade">
         <div class="numbertext">2 / 5</div>
-        <img style="width:100%;height:400px" src="https://www.funtime.com.tw/blog/wp-content/uploads/2017/08/130.jpg" >
-        <div class="text"> 擎天崗</div>
+        <img style="width:100%;height:400px" src="https://www.penghu-nsa.gov.tw/FileDownload/Scenery/Big/20160907103937579129421.jpg" >
+        <div class="text"> 雙心石滬</div>
     </div>
 
     <div class="mySlides fade">
         <div class="numbertext">3 / 5</div>
-        <img style="width:100%;height:400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCQbpF2Ed1cBs92fJpY4bIFw8aLfNKPjMt8hR7sl3AnYO_cDSyoQ">
-        <div class="text"> 山羌</div>
+        <img style="width:100%;height:400px" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0403/0403_01-03_a_04.jpg">
+        <div class="text"> 東吉燈塔</div>
     </div>
     
     <div class="mySlides fade">
@@ -646,38 +646,38 @@
             <tbody>
 
                 <tr>
-                    <td>The cafe’ by 想 陽明山</td>
-                    <td>台北市士林區陽明里光華路30號</td>
-                    <td>02 2862 6628</td>
-                    <td>上午9:30 – 下午8:00</td>
+                    <td>案山乾麵店</td>
+                    <td>澎湖縣馬公市經國路153號</td>
+                    <td>無</td>
+                    <td>上午6:00 – 下午1:30</td>
                 </tr>
 
                 <tr>
-                    <td>草山夜未眠景觀餐廳</td>
-                    <td>台北市士林區東山路25巷81弄99號</td>
-                    <td>02 2862 3751</td>
-                    <td>周一至周四16:00 – 3:00周五16:00 – 5:00周六12:00 – 5:00周日12:00 – 3:00</td>
+                    <td>鄉滋味小吃</td>
+                    <td>澎湖縣七美鄉南港村4鄰25號</td>
+                    <td>0928-370871</td>
+                    <td>08:30～20:30</td>
                 </tr>
 
                 <tr>
-                    <td>皇池溫泉御膳館</td>
-                    <td>台北市北投區行義路402巷42之1號</td>
-                    <td>02 2862 3688</td>
-                    <td>皇池一館泡湯24小時，用餐中午12：00～凌晨03：00</td>
+                    <td>二崁一家仙人掌汁</td>
+                    <td>澎湖縣西嶼鄉二崁村1號(陳家古厝)</td>
+                    <td(06)9982-165</td>
+                    <td>09:00~18:00</td>
                 </tr>
 
                 <tr>
-                    <td>白房子Yang Ming Caf’e</td>
-                    <td>台北市士林區愛富二街厚生巷2號</td>
+                    <td>歐萊壽司</td>
+                    <td>澎湖縣馬公市文康街56號</td>
                     <td>(02)2861-1777</td>
-                    <td>10:00–21:00</td>
+                    <td>17:00–9:00</td>
                 </tr>
 
                 <tr>
-                    <td>蒙馬特影像咖啡 </td>
-                    <td>台北市士林區菁山路131巷13號</td>
-                    <td>02 2862 4347</td>
-                    <td>早上10:00–19:00</td>
+                    <td>易家仙掌冰品 </td>
+                    <td>澎湖縣白沙鄉191-2號</td>
+                    <td>06 993 2297</td>
+                    <td>8:30–18:00</td>
                 </tr>
             </tbody>
         </table>
@@ -689,14 +689,14 @@
     <ul>
         <li><a href="http://np.cpami.gov.tw/">台灣國家公園</a></li>
         <br>
-        <li><a href="https://www.ymsnp.gov.tw/">陽明山國家公園</a></li>
+        <li><a href="https://www.marine.gov.tw/%E6%9C%8D%E5%8B%99%E9%81%B8%E5%96%AE/%E5%85%A8%E6%96%87%E6%AA%A2%E7%B4%A2?searchword=%E6%BE%8E%E6%B9%96%E5%8D%97%E6%96%B9%E5%9B%9B%E5%B3%B6%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92&searchword2=&ordering=0&logic=0&gc1=0&gc2=0&gc3=0">海洋國家公園管理處</a></li>
         <br>
         
-        <li><a href="https://www.mecocute.com/ymsnp/">台北美食：陽明山美食溫泉餐廳小吃景點推薦，陽明山必吃美食必去景點</a></li>
+        <li><a href="https://fengtaiwanway.com/penghutravel4_3/">澎湖四天三夜深度旅行第三天行程懶人包【澎湖旅遊】|在地仔領路玩法，南方四島國家公園及海上遊程就是要你讚嘆滿滿!!!</a></li>
         <br>
         <li><a href="https://www.trivago.com.tw/?themeId=457&iGeoDistanceItem=2512484&sem_keyword=%E9%99%BD%E6%98%8E%E5%B1%B1%20%E4%BD%8F%E5%AE%BF%20%E6%8E%A8%E8%96%A6&sem_creativeid=333376697745&sem_matchtype=e&sem_network=g&sem_device=c&sem_placement=&sem_target=&sem_adposition=1t1&sem_param1=&sem_param2=&sem_campaignid=1682128211&sem_adgroupid=71121431928&sem_targetid=kwd-635820411482&sem_location=1012825&cip=8861901253&gclid=EAIaIQobChMI3dPGgaKi4gIVGq6WCh2bkwmiEAAYASAAEgK6oPD_BwE">trivago</a></li>
         <br>
-        <li><a href="https://zh.wikipedia.org/wiki/%E9%99%BD%E6%98%8E%E5%B1%B1%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92">維基百科</a></li>
+        <li><a href="https://zh.wikipedia.org/wiki/%E6%BE%8E%E6%B9%96%E5%8D%97%E6%96%B9%E5%9B%9B%E5%B3%B6%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92">維基百科</a></li>
     </ul>
 </div>
 
