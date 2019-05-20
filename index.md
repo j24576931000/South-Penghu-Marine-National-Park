@@ -580,7 +580,7 @@
                 <tr>
                     <th width="45%">民宿/飯店 </th>
                     <th width="48%">地址 </th>
-                    <th width="24%">聯絡電話 </th>
+                    
                     <th width="24%">網址 </th>
                 </tr>
             </thead>
@@ -589,35 +589,35 @@
                 <tr>
                     <td>藍海風晴</td>
                     <td>澎湖縣馬公市山水里17之21號</td>
-                    <td>06 995 2115</td>
+                    
                     <td><a href="https://www.summer-blue.com/Home.aspx/About">https://www.summer-blue.com/Home.aspx/About</a></td>
                 </tr>
 
                 <tr>
                     <td>藍海天晴</td>
                     <td>澎湖縣馬公市山水里48之6號</td>
-                    <td>06 995 2115</td>
+                    
                      <td><a href="https://www.skysunnybnb.com/">https://www.skysunnybnb.com/</a></td>
                 </tr>
 
                 <tr>
                     <td>澎湖衫之林民宿</td>
                     <td>澎湖縣馬公市鎖港里1246號</td>
-                    <td>0975 808 010</td>
+                    
                      <td><a href="http://www.lovinghut.com/portal/tw/bbs/board.php?bo_table=restaurants_tw&wr_id=48">http://www.lovinghut.com/portal/tw/bbs/board.php?bo_table=restaurants_tw&wr_id=48</a></td>
                 </tr>
 
                 <tr>
                     <td>澎湖福朋喜來登酒店</td>
                     <td>澎湖縣馬公市新店路197號</td>
-                    <td>06 926 6288</td>
+                    
                      <td><a href="https://www.marriott.com/hotels/travel/mzgfp-four-points-penghu/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2">https://www.marriott.com/hotels/travel/mzgfp-four-points-penghu/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2</a>h</td>
                 </tr>
 
                 <tr>
                     <td>澎舢100民宿</td>
                     <td>澎湖縣馬公市線道201號</td>
-                    <td>06 995 1581</td>
+                    
                      <td><a href="https://website--782920607661804303971-hotel.business.site/">https://website--782920607661804303971-hotel.business.site/</a></td>
                 </tr>
             </tbody>
