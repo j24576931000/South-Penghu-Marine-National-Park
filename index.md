@@ -523,9 +523,11 @@ function googleTranslateElementInit() {
     <p></p>
 
 
+</div>
 
 <h2 class="header-level-2" id="D">交通資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
+ <body>
 <div class="tab">
     <button class="tablinks" onclick="openCity(event, '聯外交通')">聯外交通</button>
     <button class="tablinks" onclick="openCity(event, '島上交通')">島上交通</button>
@@ -580,7 +582,9 @@ function googleTranslateElementInit() {
     // Get the element with id="defaultOpen1" and click on it
     document.getElementById("defaultOpen1").click();
 </script>
+ </body>
 </div>
+
 
 <h2 class="header-level-2" id="E">住宿資訊:</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
